@@ -1,6 +1,6 @@
 # richcookson.info
 
-One page CV and portfolio site. 
+Legacy gulp based version of my one page CV and portfolio site.
 
 ## Requirements
 
